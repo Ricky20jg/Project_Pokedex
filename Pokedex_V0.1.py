@@ -1,4 +1,4 @@
-#En la rama Develop se hará la implementación del Pokedex
+#En la rama master se hará la implementación del Pokedex una vez se completen pasos en develop
 
 """Uso las librerias request para realizar busquedas en internet 
 y json para guardar los datos del pokemons en una archivo json"""
